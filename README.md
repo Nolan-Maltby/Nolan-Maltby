@@ -34,7 +34,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web en BTS SIO, spéci
 
 ## 📈 Statistiques GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NolanMaltby&show_icons=true&count_private=true&hide=prs&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nolan-Maltby&show_icons=true&count_private=true&hide=prs&theme=radical)  
 
 ---
 ---
