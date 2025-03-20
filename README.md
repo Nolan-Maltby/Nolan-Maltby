@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web en BTS SIO, spéci
 - 🌍 Basé en France  
 - 💻 Compétences : HTML, CSS, JavaScript, PHP, SQL, C#, MERISE, UML  
 - 📫 Comment me contacter : [nolan.maltby@gmail.com](mailto:nolan.maltby@gmail.com)  
-- 🔗 Mon Portfolio : [Mon portfolio :](https://portfolio-nolan-maltby.vercel.app)
+- 🔗 Mon Portfolio : [Mon portfolio](https://portfolio-nolan-maltby.vercel.app)
 
 ---
 
